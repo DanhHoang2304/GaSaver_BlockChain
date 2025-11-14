@@ -1,0 +1,10 @@
+//optimized code
+pragma solidity 0.7.0;
+
+contract B {
+    function p8(uint x) public returns(uint){
+        if(x<=0){
+            return x;
+        }
+    }
+}
