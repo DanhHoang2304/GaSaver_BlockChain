@@ -1,5 +1,5 @@
 //optimized code
-pragma solidity 0.7.0;
+pragma solidity 0.8.30;
 
 contract C {
     uint[] x = new uint[](100);

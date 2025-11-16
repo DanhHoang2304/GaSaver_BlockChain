@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Redundancy Checks Caused by SafeMath Library/Require/optimized code require.sol": "SafeMath"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Redundancy Checks Caused by SafeMath Library/Require/optimized code require.sol": {
+			"keccak256": "0x4218042c4ff7593da9d78d004121bf4b76a835ecdea0a21b49eb107c7609848f",
+			"urls": [
+				"bzz-raw://e2e5df4c09df4051e4e61a9b3d1027efbd0dcf21fa0112e45104cc1e5e0d2d81",
+				"dweb:/ipfs/QmP62tbQ19rU8yW1TxBSCYRinWQg7JGqXae64srsEg1GbK"
+			]
+		}
+	},
+	"version": 1
+}

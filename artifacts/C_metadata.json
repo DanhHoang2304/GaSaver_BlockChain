@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "account",
+						"type": "address"
+					}
+				],
+				"name": "p12",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Expensive operations/Pattern 11_4/unoptimized code 11_4.sol": "C"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Expensive operations/Pattern 11_4/unoptimized code 11_4.sol": {
+			"keccak256": "0x862f303ebd1e034d47fc648733eedc6ae9c5b6559eca8c9bf0d0533776bdf214",
+			"urls": [
+				"bzz-raw://4fe1308f62c231eccbd0ddf2d952e96a98d2c6bd17f9b9940bf170fec7cf830e",
+				"dweb:/ipfs/QmfTPAKmpzv9pzDuNTKzZYE2ot2SyK7fsnzeN467XM3Ydw"
+			]
+		}
+	},
+	"version": 1
+}

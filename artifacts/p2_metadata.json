@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Initialize variables with default values/Initialize variables with default values optimized.sol": "p2"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Initialize variables with default values/Initialize variables with default values optimized.sol": {
+			"keccak256": "0x912b7ab79ff1601c35d03dcf62db7e1e78c8b885f29829ecdfaa7b8398ecced7",
+			"urls": [
+				"bzz-raw://f7bf389ea1a181a0ceffed950ecb8be58fb38c24e35cbc0db6f54dfd47e1a246",
+				"dweb:/ipfs/QmR6xgQc5LwjA4zvCziShVhyNkMpxwLpovtL18d8zGEiWD"
+			]
+		}
+	},
+	"version": 1
+}
