@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "balance",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "p4",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Use Long Reason String/use_long_reason_string_optimized.sol": "A"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Use Long Reason String/use_long_reason_string_optimized.sol": {
+			"keccak256": "0x99a1672d999f52abadb7654622a5467da80cee6a3b748147d6e93d1aa7afd7ff",
+			"urls": [
+				"bzz-raw://0154155d865453a499eb4a0489f2ea45e0f68bd564d2ff68222db6e29a931ba7",
+				"dweb:/ipfs/Qmcr8HgJVHkSgyPF1rv4g1cMWXmzU4HRFAK8Qas3gLxPc5"
+			]
+		}
+	},
+	"version": 1
+}

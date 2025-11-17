@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "p8",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Use Unnecessary Conditional Judgment/optimized code Use unnecessary conditional judgment.sol": "B"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Use Unnecessary Conditional Judgment/optimized code Use unnecessary conditional judgment.sol": {
+			"keccak256": "0x256f202e3cc3ea8596da53a84c4db078967a87088ba981d73f2a0729b6bf0e1e",
+			"urls": [
+				"bzz-raw://9488b901d9d4cfd5a6f8b3429497d33c30d70d3663df7fda9b3b7b4b92fd3f1f",
+				"dweb:/ipfs/QmWbiBMEVqV35B5pjwQCpmdRDsWfNSByrMy1gEmKV9xzUd"
+			]
+		}
+	},
+	"version": 1
+}
