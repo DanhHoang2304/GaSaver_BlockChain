@@ -1,0 +1,34 @@
+{
+  "accounts": {
+    "account{9}": "0x0A098Eda01Ce92ff4A4CCb7A4fFFb5A43EBC70DC"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1763473951600,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x632559c9c1fb8e117bc1d3ff16ca13c72753f4d9d547ed5ea991caeae1703c54",
+        "contractName": "C",
+        "bytecode": "60806040525f5f553480156011575f5ffd5b5060fc8061001e5f395ff3fe6080604052348015600e575f5ffd5b50600436106026575f3560e01c8063141cdd6514602a575b5f5ffd5b60306032565b005b5f5f90505b606481101560615760015f5f828254604e9190609a565b9250508190555080806001019150506037565b50565b5f819050919050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601160045260245ffd5b5f60a2826064565b915060ab836064565b925082820190508082111560c05760bf606d565b5b9291505056fea2646970667358221220626d807ccb2adc964ba74ab645d10953505693c39a410be68b10a4469448fb1f64736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{9}"
+      }
+    }
+  ],
+  "abis": {
+    "0x632559c9c1fb8e117bc1d3ff16ca13c72753f4d9d547ed5ea991caeae1703c54": [
+      {
+        "inputs": [],
+        "name": "p11",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      }
+    ]
+  }
+}

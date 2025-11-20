@@ -1,0 +1,62 @@
+{
+  "accounts": {
+    "account{4}": "0x617F2E2fD72FD9D5503197092aC168c91465E7f2",
+    "account{7}": "0x03C6FcED478cBbC9a4FAB34eF9f40767739D1Ff7"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1763469548463,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x13f41e194f5e7a24ccc4d052834e3d851d41e289392fa25dbad937bfd8dd04b7",
+        "contractName": "B",
+        "bytecode": "6080604052348015600e575f5ffd5b5061011a8061001c5f395ff3fe6080604052348015600e575f5ffd5b50600436106026575f3560e01c80637f9af30f14602a575b5f5ffd5b60406004803603810190603c9190609a565b6054565b604051604b919060cd565b60405180910390f35b5f5f82116062578190506063565b5b919050565b5f5ffd5b5f819050919050565b607c81606c565b81146085575f5ffd5b50565b5f813590506094816075565b92915050565b5f6020828403121560ac5760ab6068565b5b5f60b7848285016088565b91505092915050565b60c781606c565b82525050565b5f60208201905060de5f83018460c0565b9291505056fea2646970667358221220a84f8925a6c3e4d0c9d12bd7fe9ed148adda7db059aea587bd1205e8364c279e64736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{4}"
+      }
+    },
+    {
+      "timestamp": 1763470663694,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x13f41e194f5e7a24ccc4d052834e3d851d41e289392fa25dbad937bfd8dd04b7",
+        "contractName": "B",
+        "bytecode": "6080604052348015600e575f5ffd5b506101238061001c5f395ff3fe6080604052348015600e575f5ffd5b50600436106026575f3560e01c80637f9af30f14602a575b5f5ffd5b60406004803603810190603c919060a3565b6054565b604051604b919060d6565b60405180910390f35b5f5f8211606b576001821015606a57819050606c565b5b5b919050565b5f5ffd5b5f819050919050565b6085816075565b8114608e575f5ffd5b50565b5f81359050609d81607e565b92915050565b5f6020828403121560b55760b46071565b5b5f60c0848285016091565b91505092915050565b60d0816075565b82525050565b5f60208201905060e75f83018460c9565b9291505056fea264697066735822122024e83feb3fa1091e40ad151134d01a075b83038df34261e9eb49ad48105f598f64736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{7}"
+      }
+    }
+  ],
+  "abis": {
+    "0x13f41e194f5e7a24ccc4d052834e3d851d41e289392fa25dbad937bfd8dd04b7": [
+      {
+        "inputs": [
+          {
+            "internalType": "uint256",
+            "name": "x",
+            "type": "uint256"
+          }
+        ],
+        "name": "p8",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      }
+    ]
+  }
+}
