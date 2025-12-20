@@ -86,18 +86,11 @@ We demonstrate that **some legacy optimization patterns become ineffective or ha
 │   ├── p1_bytes/
 │   │   ├── unoptimized.sol
 │   │   ├── optimized.sol
-│   │   └── log.txt
+│   │   └── log.json
 │   ├── p2_initialize_default/
 │   ├── ...
 │   └── p12_one_side_conditional/
-│
-├── logs/
-│   ├── remix_execution_logs/
-│   └── gas_measurement_summary.xlsx
-│
-├── report/
-│   ├── Technical_Report.pdf
-│   └── Figures/
+
 │
 ├── README.md
 ```
@@ -138,7 +131,7 @@ For each pattern folder:
 1. Open `unoptimized.sol`
 2. Compile and deploy
 3. Execute the target function
-4. Record:
+4. Record:g
 
    * Transaction Cost
    * Execution Cost
@@ -159,7 +152,7 @@ Each pattern includes:
 Logs are stored in:
 
 ```
-/patterns/<pattern_name>/log.txt
+/patterns/<pattern_name>/log.json
 /logs/remix_execution_logs/
 ```
 
